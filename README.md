@@ -1,9 +1,9 @@
 # Stockify - Virtual Trading Platform
 
-Stockify is a **Python-based virtual trading platform** designed for **stock market simulation and analysis**. It enables users to place simulated trades, analyze market trends, and evaluate trading strategies in a risk-free environment. Built with **Python, Flask, Pandas, and Streamlit**, Stockify provides real-time market data visualization and portfolio tracking.
+Stockify is a Python-based virtual trading platform designed for stock market simulation and analysis. It enables users to place simulated trades, analyze market trends, and evaluate trading strategies in a risk-free environment. Built with Python, Flask, Pandas, and Streamlit, Stockify provides real-time market data visualization and portfolio tracking.
 
 ## Features
-- **Stock Price Prediction**: Predict stock prices using machine learning models.
+- **Stock Price Prediction**: Website which can be used to predict stock prices.
 - **Interactive User Interface**: User-friendly and responsive UI built with **Streamlit**.
 - **Scalable Architecture**: RESTful API-based modular design.
 - **Real-Time Market Data**: Fetch and visualize stock data using external APIs (e.g., Yahoo Finance, Alpha Vantage).
@@ -16,13 +16,13 @@ Stockify is a **Python-based virtual trading platform** designed for **stock mar
 - **Backend**: Flask (for API handling)
 - **Data Processing**: Pandas, NumPy
 - **Visualization**: Matplotlib, Plotly
-- **Stock Data**: Yahoo Finance API, Alpha Vantage API
+- **Stock Data**: Yahoo Finance API, NSE API
 - **Authentication**: Flask-Login (for user authentication)
 
 ## Installation & Setup
 ### Prerequisites
 Ensure you have the following installed:
-- Python (3.8+)
+- Python (3.10+)
 - pip (latest version)
 - Virtual environment (optional but recommended)
 
